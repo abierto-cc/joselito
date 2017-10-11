@@ -37,9 +37,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Amplifier"
+Title "Joselito Amplifier"
 Date "2017-05-29"
-Rev ""
+Rev "mini 1.0"
 Comp "abierto.cc"
 Comment1 ""
 Comment2 ""
