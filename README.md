@@ -10,6 +10,7 @@ Si quieres conseguir el kit para montarlo, visita: https://abierto.cc/shop
 # instrucciones de montaje
 
 Puedes ver las instrucciones de montaje paso a paso en: https://sites.google.com/abierto.cc/joselito-mini
+Puedes ver las instrucciones de montaje paso a paso en: https://sites.google.com/abierto.cc/joselito-embebido
 
 # créditos
 
