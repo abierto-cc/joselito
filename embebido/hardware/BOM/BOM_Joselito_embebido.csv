@@ -1,0 +1,27 @@
+BOM del amplificador Joselito embebido. 
+
+Hemos referenciado los componentes en farnell porque es un sitio sencillo donde encontrarlos, 
+se pueden encontrar en multitud de sitios.                                      
+                                        
+                                            
+Componentes                      Cantidad/Ud Código Farnell
+                                            
+Jack Audio                          1               2472273
+Jack DC                             1                224959
+Clema de alimentación               3               1716993
+Interruptor ON/OFF                  1               9473246
+Resistencia 22k                     3               9341544
+Resistencia 1 MOhm                  1               1083579
+Resistencia 10 kOhm                 1               9339060
+Array 1 kOhm                        1               9318380
+Resistencia 10 Ohm                  1               9337652
+Trimmer 10k                         1               1357143
+Diodo                               1               2675796
+LED verde                           1               1863181
+AO LM1875                           1               1468913
+Condensador 10uF (Digikey)          3           445-8510-ND
+Condensador 100nF                   1               2395773
+Condensador 0,22uF                  1               2525318
+Condensador 100uF                   1               1219466
+Condensador 220uF                   1               1219481
+Altavoz                             1               4662064
