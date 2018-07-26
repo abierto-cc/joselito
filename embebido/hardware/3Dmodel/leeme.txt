@@ -1,0 +1,4 @@
+EL diseño se ha realizado con al herramienta libre FreeCAD.
+
+Hay varios modelos. Se han debido hacer distintas pruebas para que encajaran los componenetes de jack, interruptor , etc.
+Al final he tenido que limar para que encajaran bien.
